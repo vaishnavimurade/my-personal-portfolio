@@ -1,0 +1,1 @@
+Place your own profile photograph here and name it profile.jpg. The HTML file loads assets/profile.jpg.
