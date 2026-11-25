@@ -19,7 +19,6 @@ created using HTML5 and CSS3.
 - Cybersecurity
 - Networking
 - Artificial Intelligence
-- Machine Learning
 
 ## Projects
 
